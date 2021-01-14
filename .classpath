@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-client-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-http-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-io-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-security-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-server-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-servlet-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-util-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-webapp-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/jetty-xml-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/slf4j-simple-1.7.25 (1).jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/spark-core-2.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/websocket-api-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/websocket-client-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/websocket-common-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/websocket-server-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/HttpServerAPI/websocket-servlet-9.4.30.v20200611.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/Google JSON/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/MySQLApi/MySQLApi.jar"/>
+	<classpathentry kind="lib" path="F:/Programas/Jars Eclipse/MySQLApi/mysql-connector-java-5.1.44.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

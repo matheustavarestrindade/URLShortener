@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Shortener</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+    <div id="main-content">
+        <div class="container section">
+            <div class="title">
+                <h1>URL Shortener</h1>
+                <p>Create a short URL with a SLUG</p>
+            </div>
+            <div class="form">
+                <input type="text" id="slug" placeholder="Short code to url">
+                <input type="text" id="url" placeholder="URL To Shorteen" required>
+                <button id="shortbutton" onclick="shortURL()">Create URL</button>
+                <input type="text" id="info" placeholder="Insert the SLUG to get the infos">
+                <button onclick="info()">Info</button>
+            </div>
+            <pre id="output">
+
+            </pre>
+        </div>
+    </div>
+</body>
+<script src="app.js"></script>
+
+</html>
